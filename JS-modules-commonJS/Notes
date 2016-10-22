@@ -1,0 +1,15 @@
+
+
+
+AMD ( Async Module Definition ) spec
+----------------------------------
+
+  API
+
+    define('mid',[],factory);
+    require(loaderconfig,[],callback);
+
+
+ AMD Loaders ( impln of AMD spec )
+
+ --> requirejs   
